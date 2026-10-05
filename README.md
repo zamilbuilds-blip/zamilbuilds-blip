@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Zamil
 
-<!--
-**zamilbuilds-blip/zamilbuilds-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CCNA certified network enthusiast, building cybersecurity and SaaS tools.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Webhook Proxy** (Live): [webhook-proxy-zeta.vercel.app](https://webhook-proxy-zeta.vercel.app)
+A webhook relay and retry service that logs every payload, buffers failed deliveries, and retries automatically. Built with Next.js, Supabase, Prisma, and Clerk. Source code is private.
+
+## Networking Labs
+
+**[CCNA Labs](https://github.com/zamilbuilds-blip/ccna-labs)**: OSPF single-area routing, VLANs with inter-VLAN routing, extended ACLs, and port security, built and verified in Cisco Packet Tracer.
+
+## Certification
+
+- CCNA (Cisco Certified Network Associate), Coursera / Cisco
+
+## Contact
+
+- Email: zamil.builds@gmail.com
