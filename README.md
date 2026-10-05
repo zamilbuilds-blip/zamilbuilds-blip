@@ -1,6 +1,6 @@
 # Hi, I'm Zamil
 
-CCNA certified network enthusiast, building cybersecurity and SaaS tools.
+CCNA trained network enthusiast, building cybersecurity and SaaS tools.
 
 ## Projects
 
