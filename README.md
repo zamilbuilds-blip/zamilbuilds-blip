@@ -1,4 +1,4 @@
-# Hi, I'm Zamil
+# Hi, I'm Mahad
 
 CCNA trained network enthusiast, building cybersecurity and SaaS tools.
 
